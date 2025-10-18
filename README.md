@@ -30,4 +30,3 @@ experiencia5-fuerza-rozamiento/
 
 - `main.py` → contiene las funciones y fórmulas teóricas tomadas de las diapositivas de clase.  
 - `ejercicios/` → incluye cada pregunta del taller con su código en Python y enunciado comentado.  
-- `datos/` → materiales y coeficientes de fricción entre superficies.  
