@@ -11,7 +11,7 @@ El objetivo es **comprender el comportamiento de un objeto sobre un plano inclin
 experiencia5-fuerza-rozamiento/
 │
 ├── 📄 README.md                # Descripción general del proyecto
-├── 📘 main.md                  # Teoría completa del laboratorio (leyes de Newton, rozamiento, ecuaciones)│
+├── 📘 main.md                  # Teoría completa del laboratorio (leyes de Newton, rozamiento, 
 ├── 📂 ejercicios/              # Soluciones individuales del taller
 │   ├── 🧮 exercise1.py
 │   ├── 🧮 exercise2.py
