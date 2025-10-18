@@ -9,21 +9,20 @@ El objetivo es **comprender el comportamiento de un objeto sobre un plano inclin
 ## 🧩 Estructura del Proyecto
 
 experiencia5-fuerza-rozamiento/
-│
-├── 📄 README.md                # Descripción general del proyecto
-├── 📘 main.md                  # Teoría completa del laboratorio (leyes de Newton, rozamiento, 
-├── 📂 ejercicios/              # Soluciones individuales del taller
-│   ├── 🧮 exercise1.py
-│   ├── 🧮 exercise2.py
-│   ├── 🧮 exercise3.py
-│   ├── 🧮 exercise4.py
-│   └── 🧮 exercise5.py
-|   └── 🧮 exercise5.py
-|   └── 🧮 exercise6.py
-|   └── 🧮 exercise7.py
-|   └── 🧮 exercise8.py
-|   └── 🧮 exercise9.py
-|   └── 🧮 exercise10.py
+📄 README.md                
+📘 main.md
+📂 ejercicios/
+├── 🧮 exercise1.py
+├── 🧮 exercise2.py
+├── 🧮 exercise3.py
+├── 🧮 exercise4.py
+└── 🧮 exercise5.py
+└── 🧮 exercise5.py
+└── 🧮 exercise6.py
+└── 🧮 exercise7.py
+└── 🧮 exercise8.py
+└── 🧮 exercise9.py
+└── 🧮 exercise10.py
 
 ---
 
