@@ -8,6 +8,7 @@ El objetivo es **comprender el comportamiento de un objeto sobre un plano inclin
 
 ## 🧩 Estructura del Proyecto
 
+```
 experiencia5-fuerza-rozamiento/
 📄 README.md                
 📘 main.md
@@ -23,6 +24,7 @@ experiencia5-fuerza-rozamiento/
 └── 🧮 exercise8.py
 └── 🧮 exercise9.py
 └── 🧮 exercise10.py
+```
 
 ---
 
